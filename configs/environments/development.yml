@@ -1,0 +1,4 @@
+database:
+  sslmode: disable
+gin:
+  mode: debug
